@@ -1,0 +1,24 @@
+C:\Users\nguyen\Desktop\vy\assignment\assignment\bin\Debug\assignment.exe.config
+C:\Users\nguyen\Desktop\vy\assignment\assignment\bin\Debug\assignment.exe
+C:\Users\nguyen\Desktop\vy\assignment\assignment\bin\Debug\assignment.pdb
+C:\Users\nguyen\Desktop\vy\assignment\assignment\bin\Debug\assignment.xml
+C:\Users\nguyen\Desktop\vy\assignment\assignment\obj\Debug\assignment.Resources.resources
+C:\Users\nguyen\Desktop\vy\assignment\assignment\obj\Debug\assignment.vbproj.GenerateResource.Cache
+C:\Users\nguyen\Desktop\vy\assignment\assignment\obj\Debug\assignment.exe
+C:\Users\nguyen\Desktop\vy\assignment\assignment\obj\Debug\assignment.xml
+C:\Users\nguyen\Desktop\vy\assignment\assignment\obj\Debug\assignment.pdb
+C:\Users\nguyen\Desktop\vy\assignment\assignment\obj\Debug\assignment.fmdangnhap.resources
+C:\Users\nguyen\Desktop\vy\assignment\assignment\obj\Debug\assignment.main.resources
+C:\Users\nguyen\Desktop\vy\assignment\assignment\obj\Debug\assignment.quanly.resources
+D:\15. Điện toán đám mây\vyntps02268_Assignment\assignment\assignment\bin\Debug\assignment.exe.config
+D:\15. Điện toán đám mây\vyntps02268_Assignment\assignment\assignment\obj\Debug\assignment.exe
+D:\15. Điện toán đám mây\vyntps02268_Assignment\assignment\assignment\obj\Debug\assignment.xml
+D:\15. Điện toán đám mây\vyntps02268_Assignment\assignment\assignment\obj\Debug\assignment.pdb
+D:\15. Điện toán đám mây\vyntps02268_Assignment\assignment\assignment\bin\Debug\assignment.exe
+D:\15. Điện toán đám mây\vyntps02268_Assignment\assignment\assignment\bin\Debug\assignment.pdb
+D:\15. Điện toán đám mây\vyntps02268_Assignment\assignment\assignment\bin\Debug\assignment.xml
+D:\15. Điện toán đám mây\vyntps02268_Assignment\assignment\assignment\obj\Debug\assignment.fmdangnhap.resources
+D:\15. Điện toán đám mây\vyntps02268_Assignment\assignment\assignment\obj\Debug\assignment.main.resources
+D:\15. Điện toán đám mây\vyntps02268_Assignment\assignment\assignment\obj\Debug\assignment.Resources.resources
+D:\15. Điện toán đám mây\vyntps02268_Assignment\assignment\assignment\obj\Debug\assignment.vbproj.GenerateResource.Cache
+D:\15. Điện toán đám mây\vyntps02268_Assignment\assignment\assignment\obj\Debug\assignment.sanpham.resources
