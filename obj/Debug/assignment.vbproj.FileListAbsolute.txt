@@ -22,3 +22,7 @@ D:\15. Điện toán đám mây\vyntps02268_Assignment\assignment\assignment\obj
 D:\15. Điện toán đám mây\vyntps02268_Assignment\assignment\assignment\obj\Debug\assignment.Resources.resources
 D:\15. Điện toán đám mây\vyntps02268_Assignment\assignment\assignment\obj\Debug\assignment.vbproj.GenerateResource.Cache
 D:\15. Điện toán đám mây\vyntps02268_Assignment\assignment\assignment\obj\Debug\assignment.sanpham.resources
+E:\Ass\assignment\bin\Debug\assignment.exe.config
+E:\Ass\assignment\obj\Debug\assignment.exe
+E:\Ass\assignment\obj\Debug\assignment.xml
+E:\Ass\assignment\obj\Debug\assignment.pdb
